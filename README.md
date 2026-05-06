@@ -154,7 +154,25 @@ The web application allows users to:
 - Cloud Deployment
 
 ---
+## Screenshots
+
+#  Graph 1
+![Graph 1](graph1.png.png)
+
+#  Graph 2
+![Graph 2](graph2.png.png)
+
+# output 1
+![output 1](output1.png.png)
+
+# output 2
+![output 2](output2.png.png)
+
+# output 3
+![output 3](output3.png.png)
+---
 
 ## 👨‍💻 Author
 
 Developed as a Machine Learning Mini Project using Python and Flask.
+
